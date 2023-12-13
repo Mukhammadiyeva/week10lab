@@ -11,14 +11,14 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
-  flutter_test:
+  flutter:
     sdk: flutter
-  flutter_lints: ^2.0.2
+  sqflite: ^2.3.0
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
+  assets:
+   - images/dragon.jpg
   #  - images/a_dot_ham.jpeg
   # fonts:
   #   - family: Schyler
